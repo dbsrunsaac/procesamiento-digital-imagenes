@@ -1,5 +1,10 @@
+# Archivos locales
+__pycache__/
+
 # Archivos latex
 *.aux
 *.log
 *.out
-*.synctex.gz 
+*.synctex.gz
+*.mp4
+
