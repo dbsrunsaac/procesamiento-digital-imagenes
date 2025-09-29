@@ -1,0 +1,31 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\'{I}ndice de cuadros}{V}{chapter*.4}%
+\contentsline {chapter}{Lista de Tablas}{V}{chapter*.4}%
+\contentsline {chapter}{\'{I}ndice de figuras}{VI}{chapter*.5}%
+\contentsline {chapter}{Lista de Figuras}{VI}{chapter*.5}%
+\contentsline {chapter}{\numberline {1}Planteamiento del Problema}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Problema General}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Problemas Específicos}{1}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Antecedentes}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Trabajos Relacionados}{2}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Justificación}{3}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Objetivos}{4}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Objetivo General}{4}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Objetivos Específicos}{4}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Hipótesis}{5}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Hipótesis General}{5}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Hipótesis Específicas}{5}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Alcances y Limitaciones}{6}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Alcances}{6}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Limitaciones}{6}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Marco Teórico}{7}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Liquenes}{7}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Biodeterioro}{7}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Columna liquenica}{7}{section.7.3}%
+\contentsline {section}{\numberline {7.4}}{7}{section.7.4}%
+\contentsline {section}{\numberline {7.5}}{7}{section.7.5}%
+\contentsline {chapter}{\numberline {8}Metodología}{8}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Métodos de Validación Propuestas}{8}{section.8.1}%
+\contentsline {chapter}{\numberline {9}Resultados Esperados}{9}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Contribuciones Originales Esperadas}{10}{chapter.10}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{11}{chapter*.6}%

@@ -1,0 +1,42 @@
+\UseRawInputEncoding
+\documentclass[a4paper,openany,12pt]{book}
+\input{contenido/includes.tex}
+\newcolumntype{L}{>{\centering\arraybackslash}m{4cm}} 
+\usepackage[caption=false]{subfig}
+\usepackage{dsfont}
+\usepackage{gantt}
+\usepackage[ruled,vlined]{algorithm2e}
+
+\newtheorem{defn}{Definition}[section]
+\pagenumbering{Roman}
+
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\maketitle
+\input{contenido/resumen} 
+%%%%%%%%%%%%%%%%%%%%%%%%% list of content %%%%%%%%%%%%%%%%%%%%%%%%
+\tableofcontents 
+\listoftables 
+\addcontentsline{toc}{chapter}{Lista de Tablas}
+\listoffigures 
+\addcontentsline{toc}{chapter}{Lista de Figuras}
+
+\setlength{\tabcolsep}{6pt} 
+\renewcommand{\arraystretch}{1}
+\clearpage
+\pagenumbering{arabic}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{contenido/cap_1_planteamiento_del_problema} %Inserta el capítulo 1
+\input{contenido/cap_2_antecedentes} %Inserta el capítulo 2
+\input{contenido/cap_3_justificacion} %Inserta el capítulo 3
+\input{contenido/cap_4_objetivos} %Inserta el capítulo 4
+\input{contenido/cap_5_hipotesis} %Inserta el capítulo 5
+\input{contenido/cap_6_alcance_limitaciones} %Inserta el capítulo 6
+\input{contenido/cap_7_marco_teorico} %Inserta el capítulo 7
+\input{contenido/cap_8_metodologia} %Inserta el capítulo 8
+\input{contenido/cap_9_resultados_priori} %Inserta el capítulo 9
+\input{contenido/cap_10_contribuciones_originales} %Inserta el capítulo 10
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\bibliographystyle{apalike}
+\bibliography{contenido/bibliog.bib}
+\end{document}
