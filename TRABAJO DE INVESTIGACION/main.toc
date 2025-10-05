@@ -20,17 +20,21 @@
 \contentsline {section}{\numberline {6.2}Limitaciones}{6}{section.6.2}%
 \contentsline {chapter}{\numberline {7}Marco Teórico}{7}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Líquenes}{7}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Cobertura Liquenica}{7}{section.7.2}%
+\contentsline {section}{\numberline {7.2}Cobertura Liquenica}{8}{section.7.2}%
 \contentsline {section}{\numberline {7.3}Simbiosis liquénica}{8}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Biodeterioro}{8}{section.7.4}%
-\contentsline {section}{\numberline {7.5}Patrimonio arqueológico}{8}{section.7.5}%
-\contentsline {section}{\numberline {7.6}Deterioro pétreo}{9}{section.7.6}%
-\contentsline {section}{\numberline {7.7}Segmentación de imágenes}{9}{section.7.7}%
-\contentsline {section}{\numberline {7.8}Reflectancia espectral}{9}{section.7.8}%
-\contentsline {section}{\numberline {7.9}Índices espectrales}{10}{section.7.9}%
-\contentsline {section}{\numberline {7.10}Validación de campo}{10}{section.7.10}%
-\contentsline {chapter}{\numberline {8}Metodología}{11}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Métodos de Validación Propuestas}{11}{section.8.1}%
-\contentsline {chapter}{\numberline {9}Resultados Esperados}{12}{chapter.9}%
-\contentsline {chapter}{\numberline {10}Contribuciones Originales Esperadas}{13}{chapter.10}%
-\contentsline {chapter}{Bibliograf\'{\i }a}{14}{chapter*.6}%
+\contentsline {section}{\numberline {7.4}Biodeterioro}{9}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Patrimonio arqueológico}{9}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Deterioro pétreo}{10}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Segmentación de imágenes}{11}{section.7.7}%
+\contentsline {section}{\numberline {7.8}Reflectancia espectral}{11}{section.7.8}%
+\contentsline {section}{\numberline {7.9}Índices espectrales}{12}{section.7.9}%
+\contentsline {section}{\numberline {7.10}Validación de campo}{12}{section.7.10}%
+\contentsline {chapter}{\numberline {8}Metodología}{13}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Limitantes}{13}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Materiales y toma de muestras}{13}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Procesamiento de muestras y segmentación mediante espectro}{15}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Estimación del área afectada mediante segmentación}{15}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Métodos de Validación Propuestas}{16}{section.8.5}%
+\contentsline {chapter}{\numberline {9}Resultados Esperados}{17}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Contribuciones Originales Esperadas}{18}{chapter.10}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{19}{chapter*.14}%
