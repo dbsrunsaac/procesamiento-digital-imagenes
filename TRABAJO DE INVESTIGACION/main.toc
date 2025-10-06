@@ -1,40 +1,47 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {chapter}{\'{I}ndice de cuadros}{V}{chapter*.4}%
-\contentsline {chapter}{Lista de Tablas}{V}{chapter*.4}%
-\contentsline {chapter}{\'{I}ndice de figuras}{VI}{chapter*.5}%
-\contentsline {chapter}{Lista de Figuras}{VI}{chapter*.5}%
+\contentsline {chapter}{\'{I}ndice de cuadros}{VI}{chapter*.4}%
+\contentsline {chapter}{Lista de Tablas}{VI}{chapter*.4}%
+\contentsline {chapter}{\'{I}ndice de figuras}{VII}{chapter*.5}%
+\contentsline {chapter}{Lista de Figuras}{VII}{chapter*.5}%
 \contentsline {chapter}{\numberline {1}Planteamiento del Problema}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Problema General}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Problemas Específicos}{1}{section.1.2}%
 \contentsline {chapter}{\numberline {2}Antecedentes}{2}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Trabajos Relacionados}{2}{section.2.1}%
-\contentsline {chapter}{\numberline {3}Justificación}{3}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Objetivos}{4}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Objetivo General}{4}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Objetivos Específicos}{4}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Hipótesis}{5}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Hipótesis General}{5}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Hipótesis Específicas}{5}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Alcances y Limitaciones}{6}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Alcances}{6}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Limitaciones}{6}{section.6.2}%
-\contentsline {chapter}{\numberline {7}Marco Teórico}{7}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Líquenes}{7}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Cobertura Liquenica}{8}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Simbiosis liquénica}{8}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Biodeterioro}{9}{section.7.4}%
-\contentsline {section}{\numberline {7.5}Patrimonio arqueológico}{9}{section.7.5}%
-\contentsline {section}{\numberline {7.6}Deterioro pétreo}{10}{section.7.6}%
-\contentsline {section}{\numberline {7.7}Segmentación de imágenes}{11}{section.7.7}%
-\contentsline {section}{\numberline {7.8}Reflectancia espectral}{11}{section.7.8}%
-\contentsline {section}{\numberline {7.9}Índices espectrales}{12}{section.7.9}%
-\contentsline {section}{\numberline {7.10}Validación de campo}{12}{section.7.10}%
-\contentsline {chapter}{\numberline {8}Metodología}{13}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Limitantes}{13}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Materiales y toma de muestras}{13}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Procesamiento de muestras y segmentación mediante espectro}{15}{section.8.3}%
-\contentsline {section}{\numberline {8.4}Estimación del área afectada mediante segmentación}{15}{section.8.4}%
-\contentsline {section}{\numberline {8.5}Métodos de Validación Propuestas}{16}{section.8.5}%
-\contentsline {chapter}{\numberline {9}Resultados Esperados}{17}{chapter.9}%
-\contentsline {chapter}{\numberline {10}Contribuciones Originales Esperadas}{18}{chapter.10}%
-\contentsline {chapter}{Bibliograf\'{\i }a}{19}{chapter*.14}%
+\contentsline {subsection}{\numberline {2.1.1}“Biota liquénica en el monumento arqueológico de Pawkarkancha Santuario Histórico de Machupicchu”}{2}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}“Inhibición del crecimiento de líquenes y musgos en elementos líticos usados en la construcción de fachadas de iglesias patrimoniales cusqueñas aplicando nanoburbujas de aire”}{2}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Los líquenes y la degradación del patrimonio arquitectónico}{3}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}“Determinación de la diversidad de líquenes saxícolas de tres sitios arqueológicos de Cajamarca”}{3}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}“Macro-líquenes del Santuario Histórico de Machu Picchu”}{4}{subsection.2.1.5}%
+\contentsline {chapter}{\numberline {3}Justificación}{5}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Objetivos}{6}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Objetivo General}{6}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Objetivos Específicos}{6}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Hipótesis}{7}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Hipótesis general}{7}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Hipótesis específicas}{7}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Alcances y Limitaciones}{8}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Alcance}{8}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Limitaciones}{8}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Marco Teórico}{9}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Líquenes}{9}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Cobertura Liquenica}{10}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Simbiosis liquénica}{10}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Biodeterioro}{11}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Patrimonio arqueológico}{11}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Deterioro pétreo}{12}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Segmentación de imágenes}{13}{section.7.7}%
+\contentsline {section}{\numberline {7.8}Reflectancia espectral}{13}{section.7.8}%
+\contentsline {section}{\numberline {7.9}Índices espectrales}{14}{section.7.9}%
+\contentsline {section}{\numberline {7.10}Validación de campo}{14}{section.7.10}%
+\contentsline {chapter}{\numberline {8}Metodología}{15}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Consideraciones y restricciones}{15}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Materiales y toma de muestras}{15}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Procesamiento de muestras y segmentación mediante espectro}{17}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Estimación del área afectada mediante segmentación}{17}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Calculo del área afectada}{17}{section.8.5}%
+\contentsline {subsection}{\numberline {8.5.1}Conteo directo de Píxeles y calibración espacial}{18}{subsection.8.5.1}%
+\contentsline {subsection}{\numberline {8.5.2}Análisis de contornos y geometría computacional}{18}{subsection.8.5.2}%
+\contentsline {section}{\numberline {8.6}Métodos de Validación Propuestas}{18}{section.8.6}%
+\contentsline {chapter}{\numberline {9}Resultados Esperados}{19}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Contribuciones Originales Esperadas}{20}{chapter.10}%

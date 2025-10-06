@@ -2,7 +2,7 @@
 
 El objeto de estudio se encuentra localizado en la superficie rocosa de los centros arqueológicos y/o monumentos en el ciudad de Cusco, es así que para la detección y estimación del área que ocupa se tendrá en cuenta un enfoque pseudo-multiespectral dentro del espacio y rango visible [380nm - 760nm] para la obtención de imágenes RGB para su posterior procesamiento.
 
-\section{Limitantes}
+\section{Consideraciones y restricciones}
 El enfoque propuesto restringe el espectro electromagnético al espectro visible para longitudes de onda entre correspondientes al rojo, verde y azul, dejando de lado así la radiación ultra violeta e infrarroja para el análisis de las muestras e imágenes capturadas, pudiendo aplicar de esta forma un método que no requiera de equipo de calidad y/o filtros de luz que incurren en un gasto considerable para su implementación.
 
 Una vez establecidos los parámetros principales para el dispositivo receptor de luz y sus limitantes es necesario describir el espacio de estudio el cual se desarrollara en los centro arqueológico de Qenq'o y Sacsayhuaman pertenecientes a la ciudad del Cusco, siendo este lugar el preciso gracias al fácil acceso al patrimonio pétreo que lo conforman posibilitando la siguiente etapa que consiste en la recopilación de muestras (imágenes) de los muros afectados por el organismo simbionte (Liquen).
@@ -54,9 +54,28 @@ u otros, considerando para caso la equalización entre otras transformaciones pa
 
 Una vez procesadas las imágenes la siguiente etapa consta del reconocimiento del área afectada utilizando para ello un algoritmo de aprendizaje reforzado o Machine Learning mediante las tonalidades resultantes para cada pixel como resultado de la segmentación espectral aplicada mediante los modos de color y transformaciones ejecutadas, esto al no contemplar cierta uniformidad o linealidad para cada pixel, requiere de un modelo capaz de imitar el criterio humano agregando objetividad para aplicar cálculos precisos en función a la segmentación del espacio ocupado por el elemento orgánico híbrido.
 
-\section{Calculo del área}
+\section{Calculo del área afectada}
 
-Para el calculo del área se pueden empe
+Con la segmentación o detección del espacio afectado, el siguiente problema a resolver consiste en el cálculo del área siendo así que al tratarse de un método indirecto una correcta equivalencia y por ende calibración por cada pixel y el área exacta que ocupa, acotando al mismo tiempo que este algoritmo sea eficiente en cuanto a recursos de hardware facilitando así su implementación en dispositivos de pocas capacidades, por tanto según estas características se hará uso de 2 propuestas.
+
+\subsection{Conteo directo de Píxeles y calibración espacial}
+
+Siendo el enfoque más directo para el cálculo de área que requiere como paso intermedio la calibración de la escala entre pixel y medida, es un procedimiento algoritmicamente eficiente en cuanto a velocidad y costo computacional y el cual consiste en realizar operaciones con la mascara de imagen y multiplicar a cada pixel del área previamente segmentada por la escala obtenida durante el proceso de calibración, como se menciona en \cite{famaf2025procesamiento}
+
+Para su implementación se puede hacer uso de las librerías open-cv, numpy mediante el uso de funciones provistas por estas librerías, siendo su única limitante es que requiere contar con una superficie plana debido a que asume una equivalencia en área para pixel obtenido.
+
+\subsection{Análisis de contornos y geometría computacional}
+
+Muy parecido al anterior método este método en lugar de trabajar con superficies planas permite en análisis geométrico y cierta libertad en los ángulos, deformaciones y grados de inclinación no superior a los 15° lo cual no represente una limitante diferenciandose del primer método en resultados con discrepancias menores al 2\% definidas en \cite{caselles2005contornos}, siendo necesario para su implementación las bibliotecas previamente mencionadas en el método uno.
+
 
 \section{Métodos de Validación Propuestas}
-Cuales serán las métricas utilizadas 
+
+
+Para la validación de resultados el enfoque a seguir estará centrado en mediciones manuales del área afectada en bloques de pétreos de no importancia cultural de forma que su análisis se pueda estudiar para una validación de resultados iterativos en función a cada bloque de entrenamiento y obtención del área bajo los procedimientos establecidos.
+
+Adicionalmente y a causa de la falta de estudios relacionados estrechamente con lo propuesto el método manual nos brinda una forma fiel de comprobación.
+
+
+ 
+
