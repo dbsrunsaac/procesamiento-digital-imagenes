@@ -8,3 +8,6 @@ __pycache__/
 *.synctex.gz
 *.mp4
 *.zip
+
+# Archivos permitidos
+!/PLANTILLAS/*.zip
