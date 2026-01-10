@@ -1,0 +1,110 @@
+\documentclass[12pt,a4paper]{article}
+
+% Paquetes básicos
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{enumitem}
+
+% Márgenes
+\geometry{margin=2.5cm}
+
+% Datos del resumen
+\title{Resumen: \textbf{Un enfoque en el área de pantallas LED}}
+
+\author{Davis Bremdow Salazar Roa}
+\date{27 de noviembre de 2025}
+
+\begin{document}
+	
+\maketitle
+
+\section{Introducción}
+
+En un entorno tecnológico desarrollado gracias a la tecnología LED en la actualidad se desarrollan varias estrategias para facilitar la implementación de pantallas led, siendo así se usan diferentes tecnologías para el procesamiento de imágenes para agrandar, reducir la imagen agregando a ello un análisis de profundidad.
+
+\section{Desarrollo}
+
+Las limitantes del cableado tradicional se resuelven mediante la implementación de protocolos de comunicación, como por ejemplo:
+
+\begin{itemize}
+	\item Arnet
+	\item RS485
+	\item SPI
+\end{itemize}
+
+El cobre tiene un límite de transferencia de 512 canales debido a su ancho de banda 
+¿Cuál es el ancho de banda del cobre?, además la tecnología permite la evolución del cableado como el calde red hasta la fibra óptica.
+\subsection{Videoprocesadores}
+
+Se encargan de escalar una fuente de video (laptop, etc) para adecuarla a un medio, puede escalar o comprimir una determinada fuente, además permite el control de parámetros. Entre las marcas, se tienen: Novastar VX400m VX600.
+
+\subsection{Sending Card}
+Se encarga de adaptar la señal procesada al protocolo ethernet ¿Ip?, cuenta con entradas digitales para la entrada de video y puertos ethernet de salida con una capacidad de enviar 65053
+
+\subsection{Receiving card}
+Maneja el protocolo de comunicación I2C y especificamente su función es convertir paquetes UDP a SPI,
+
+\subsection{Módulos LED}
+Se encarga de convertir la señal led del proceso previo en una señal PWM para definir el brillo con el cual se van
+
+Intensidad del brillo se mide en candela en la industria se utilizan los nets que miden la intensidad de luz por unidad de metro cuadrado y este se usa como referencia para definir el tipo de módulo LED.
+
+\subsection{Software de configuración}
+
+Se tienen las app:
+
+\begin{itemize}
+	\item Novastar
+	\item Lins
+	\item Hiudu
+\end{itemize}
+
+Permiten el mapeo de pantalla, control de brillo, ajuste de color
+
+\subsection{Software de control}
+
+\begin{itemize}
+	\item Resolume Arena
+\end{itemize}
+
+Protocolo para la transferencia de video (NDI)
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
